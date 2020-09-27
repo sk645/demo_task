@@ -6,15 +6,6 @@ body {
     background-color: #f2f2f2;
 }
 
-/* code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-        monospace;
-} */
-
-/* .button{
-    color: red;
-} */
-
 * {
     margin: 0;
     padding: 0;
@@ -74,7 +65,6 @@ table {
     display: inline-block;
 }
 
-/* start commented backslash hack \*/
 * html .clearfix {
     height: 1%;
 }
@@ -83,9 +73,6 @@ table {
     display: block;
 }
 
-/* close commented backslash hack */
-
-/* CSS global Box Sizing */
 html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -255,7 +242,7 @@ footer {
     padding: 30px 20px;
 }
 
-/* .data-loader {
+.data-loader {
     position: fixed;
     font-size: 30px;
     width: 100%;
@@ -263,7 +250,7 @@ footer {
     background: rgba(0, 0, 0, .5);
     text-align: center;
     padding-top: 30%;
-} */
+}
 
 /* Responsive CSS */
 @media only screen and (max-width: 1440px) and (min-width: 1025px) {
